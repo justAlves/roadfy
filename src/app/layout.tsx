@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     url: 'https://roadfy.vercel.app',
     images: [
       {
-        url: '/og-image.jpg',
+        url: '/banner.png',
         width: 1200,
         height: 630,
         alt: 'Planeje sua viagem com RoadFy',
@@ -38,7 +38,7 @@ export const metadata: Metadata = {
     site: '@roadfy',
     title: 'RoadFy - Planeje sua viagem com IA',
     description: 'Crie roteiros personalizados para sua viagem.',
-    images: ['/twitter-image.jpg'],
+    images: ['/banner.png'],
   },
 };
 
